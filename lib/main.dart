@@ -190,7 +190,7 @@ class _MyHomePageState extends State<MyHomePage> {
               const SizedBox(height: 18),
               Text('Estado permiso: $_permissionStatus'),
               const SizedBox(height: 12),
-              const Text('Transcripción:'),
+              const Text('Transcripcion:'),
               Container(
                 padding: const EdgeInsets.all(12),
                 margin: const EdgeInsets.all(8),
